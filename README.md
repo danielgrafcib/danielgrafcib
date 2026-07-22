@@ -1,7 +1,7 @@
 <h1 align="center">👋 Salut, je suis DanielGrafCIB</h1>
 
 <h3 align="center">
-Développeur de logiciels passionné 🇹🇬 | Full Stack • Mobile • Desktop • IoT
+Développeur de logiciels passionné 🇹🇬 | Full Stack • Mobile • Desktop • IoT • Data Analyst
 </h3>
 
 <p align="center">
@@ -16,31 +16,28 @@ Je transforme des idées en applications performantes et innovantes.
 - 💻 Développeur passionné ayant réalisé **plus de 24 projets** dans différents langages et technologies.
 - 🔭 Je travaille actuellement sur **MiabePharmacie** et **localisation en temps d'une moto connecté**.
 - 🌱 J'apprends actuellement **Django**, **Vue.js** et les architectures logicielles modernes.
+- 📊 Je m'intéresse aussi à la **Data Analyse** (Excel, PowerPoint, Python, SQL).
 - 👯 Je suis ouvert aux collaborations sur des projets **Web**, **Mobile**, **Desktop** et **IoT**.
 - 📂 Retrouvez tous mes projets sur mon profil GitHub.
 - 📫 **Email :** **zepe.nicole@gmail.com**
 
 ---
 
-## 🌐 Me retrouver
+## 🌐 Contactez-moi :
 
 <p align="left">
 <a href="https://codepen.io/golden-boy-the-builder" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" width="40"/>
 </a>
-
 <a href="https://dev.to/goldendev74" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" width="40"/>
 </a>
-
 <a href="https://www.linkedin.com/in/authentic-tutoa-461aa02a0" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40"/>
 </a>
-
 <a href="https://web.facebook.com/bruno.sessou.583/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40"/>
 </a>
-
 <a href="https://www.instagram.com/228_golden_boy/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40"/>
 </a>
@@ -48,14 +45,15 @@ Je transforme des idées en applications performantes et innovantes.
 
 ---
 
-## 💻 Pile Technologique & Compétences
+## 🛠️ Langues et outils :
 
-### 🛠️ Vue d'ensemble
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,python,php,javascript,typescript,dart,go,rust,swift,react,vue,angular,nodejs,express,django,spring,laravel,dotnet,flutter,graphql,mysql,postgresql,sqlite,mongodb,firebase,git,github,linux,vscode,visualstudio,idea,androidstudio,postman,figma,arduino,vercel,netlify" />
+<img src="https://skillicons.dev/icons?i=arduino,c,cs,html,dart,django,dotnet,express,firebase,flutter,git,graphql,html,java,js,laravel,linux,mysql,nodejs,php,postgres,py,spring,tailwind,vitejs,vuejs" />
 </p>
 
-### 🏷️ Détails des Technologies
+---
+
+## 💻 Pile technologique :
 
 #### Langages & Spécifications
 <p align="left">
@@ -69,6 +67,7 @@ Je transforme des idées en applications performantes et innovantes.
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 #### Frameworks, Bibliothèques & Runtimes
@@ -97,6 +96,14 @@ Je transforme des idées en applications performantes et innovantes.
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
+#### 📊 Data Analyst
+<p align="left">
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
 #### Outils, Design & IoT
 <p align="left">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -115,7 +122,7 @@ Je transforme des idées en applications performantes et innovantes.
 
 ---
 
-## 📊 Statistiques GitHub
+## 📊 Statistiques GitHub :
 
 <p align="center">
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=DanielGrafCIB&show_icons=true&theme=tokyonight&count_private=true"/>
@@ -154,6 +161,7 @@ Je transforme des idées en applications performantes et innovantes.
 - 🌍 Participer à des projets Open Source
 - 🤝 Collaborer avec des développeurs du monde entier
 - 📚 Apprendre continuellement de nouvelles technologies
+- 📊 Renforcer mes compétences en Data Analyse (Excel, PowerPoint, Python, SQL)
 - 💼 Concevoir des solutions Web, Mobile, Desktop et IoT performantes
 
 ---
