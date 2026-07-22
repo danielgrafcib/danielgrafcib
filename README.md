@@ -123,6 +123,33 @@ Je transforme des idées en applications performantes et innovantes.
 
 ---
 
+## ✍️ Citation Dev Aléatoire
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔝 Dépôt le Plus Contribué
+
+<p align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=DanielGrafCIB&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+</p>
+
+---
+
+## ☕ Me Soutenir
+
+<p align="left">
+<a href="https://buymeacoffee.com/goldendev74">
+<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
+</a>
+</p>
+<br><br>
+
+---
+
 ## 👀 Visiteurs
 
 <p align="center">
