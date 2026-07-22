@@ -16,7 +16,7 @@ Je transforme des idées en applications performantes et innovantes.
 - 💻 Développeur passionné ayant réalisé **plus de 24 projets** dans différents langages et technologies.
 - 🔭 Je travaille actuellement sur **MiabePharmacie** et **localisation en temps d'une moto connecté**.
 - 🌱 J'apprends actuellement **Django**, **Vue.js** et les architectures logicielles modernes.
-- 📊 Je m'intéresse aussi à la **Data Analyse** (Excel, PowerPoint, Python, SQL).
+- 📊 Je m'intéresse aussi à la **Data Analyse** (Excel, Power BI, Python, SQL).
 - 👯 Je suis ouvert aux collaborations sur des projets **Web**, **Mobile**, **Desktop** et **IoT**.
 - 📂 Retrouvez tous mes projets sur mon profil GitHub.
 - 📫 **Email :** **zepe.nicole@gmail.com**
@@ -92,7 +92,7 @@ Je transforme des idées en applications performantes et innovantes.
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
@@ -164,7 +164,7 @@ Je transforme des idées en applications performantes et innovantes.
 - 🌍 Participer à des projets Open Source
 - 🤝 Collaborer avec des développeurs du monde entier
 - 📚 Apprendre continuellement de nouvelles technologies
-- 📊 Renforcer mes compétences en Data Analyse (Excel, PowerPoint, Python, SQL)
+- 📊 Renforcer mes compétences en Data Analyse (Excel, Power BI, Python, SQL)
 - 💼 Concevoir des solutions Web, Mobile, Desktop et IoT performantes
 
 ---
